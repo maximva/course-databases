@@ -60,7 +60,7 @@ Tables have characteristics and properties that define how data is stored in the
 
 Tables are made up of columns. Columns contain a particular piece of information within the table. You can envision database tables as grids \(like spreadsheets\). Each column on the grid contains a particular piece of information.
 
-Each column in a database has an associated **datatype**. It defines what the type the data the column can contain
+Each column in a database has an associated **datatype**. It defines what type of data the column can contain
 
 Eg: Numeric, date, text, currency,…
 
