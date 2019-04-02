@@ -1,4 +1,4 @@
-# Retreiving data
+# Retrieving data
 
 ## Selecting a column from a table
 
